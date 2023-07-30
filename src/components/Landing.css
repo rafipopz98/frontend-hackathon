@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.landing_pg{
+    min-height: 100vh;
+    background-color: #FDE3A0;
+}
+.lp_navbar{
+    display: flex;
+    justify-content: end;
+    padding: 2rem 4rem;
+}
