@@ -1,10 +1,12 @@
-import Landing from "./components/Landing"
+import Login from "./components/Login"
+// import Logo from "./components/Login"
 
 function App() {
 
   return (
     <>
-    <Landing />
+    {/* <Landing /> */}
+    <Login />
     </>
   )
 }
